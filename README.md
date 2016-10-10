@@ -1,1 +1,1 @@
-# electron-quick-start
+# electron-react
